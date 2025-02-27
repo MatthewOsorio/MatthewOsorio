@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Neural Noir. An AI driven interrogation video game.
+I'm a senior at the University of Nevada, Reno. I'm interested in software engineering and fullstack development.
 
 
 ## 🌐 Socials:
