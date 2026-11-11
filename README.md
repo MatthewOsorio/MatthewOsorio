@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neon-sign.svg" width="100%" alt="Neon sign: Matt Osorio, CS&E grad student @ UNR">
+  <img src="assets/neon-sign.svg" width="100%" alt="Neon sign: Matt Osorio, CSE grad student @ UNR">
 </p>
 
 ## About Me
