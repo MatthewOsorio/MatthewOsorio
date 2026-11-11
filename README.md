@@ -4,6 +4,6 @@
 
 <div align="center">
 
-<img src="assets/neon-tech.svg" width="100%" alt="Tech stack. Languages: Java, JavaScript, TypeScript, Python, C++, HTML5, CSS3. Frameworks: Spring, React, Next.js, Flask, Redux, Tailwind CSS. Databases: PostgreSQL, MySQL. Tools: Git, Postman.">
+<img src="assets/neon-tech.svg" width="100%" alt="Tech stack. Languages: Java, TypeScript, Python, C#, C++, HTML5, CSS. Frameworks: .NET, Spring Boot, React.js, Next.js, Flask, Redux, Tailwind CSS. Databases: PostgreSQL, MySQL, Sqlite. Tools: Git, Postman, Claude Code">
 
 </div>
