@@ -46,6 +46,6 @@
   <g class="sign" filter="url(#glow)">
     <rect class="frame" x="24" y="24" width="752" height="212" rx="30"/>
     <text class="name" x="400" y="140" text-anchor="middle">Matt Os<tspan class="f1">o</tspan>rio</text>
-    <text class="tag" x="400" y="204" text-anchor="middle">CS&amp;E grad student @ <tspan class="f2">U</tspan>NR</text>
+    <text class="tag" x="400" y="204" text-anchor="middle">CSE grad student @ <tspan class="f2">U</tspan>NR</text>
   </g>
 </svg>
