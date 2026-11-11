@@ -1,36 +1,40 @@
+<p align="center">
+  <img src="assets/neon-sign.svg" width="100%" alt="Neon sign: Matt Osorio, CS&E grad student @ UNR">
+</p>
+
 ## About Me
 Computer Science and Engineering graduate student at the University of Nevada, Reno, with experience in full-stack development, automation, and AI-driven applications.
 ## Tech Stack
 
 #### Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-0d0b14.svg?style=for-the-badge&logo=openjdk&logoColor=ff3df2)
+![JavaScript](https://img.shields.io/badge/javascript-0d0b14.svg?style=for-the-badge&logo=javascript&logoColor=ff3df2)
+![TypeScript](https://img.shields.io/badge/typescript-0d0b14.svg?style=for-the-badge&logo=typescript&logoColor=ff3df2)
+![Python](https://img.shields.io/badge/python-0d0b14?style=for-the-badge&logo=python&logoColor=ff3df2)
+![C++](https://img.shields.io/badge/c++-0d0b14.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ff3df2)
+![HTML5](https://img.shields.io/badge/html5-0d0b14.svg?style=for-the-badge&logo=html5&logoColor=ff3df2)
+![CSS3](https://img.shields.io/badge/css3-0d0b14.svg?style=for-the-badge&logo=css3&logoColor=ff3df2)
 
 #### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-0d0b14.svg?style=for-the-badge&logo=spring&logoColor=39f3ff)
+![React](https://img.shields.io/badge/react-0d0b14.svg?style=for-the-badge&logo=react&logoColor=39f3ff)
+![Next.js](https://img.shields.io/badge/Next-0d0b14?style=for-the-badge&logo=next.js&logoColor=39f3ff)
+![Flask](https://img.shields.io/badge/flask-0d0b14.svg?style=for-the-badge&logo=flask&logoColor=39f3ff)
+![Redux](https://img.shields.io/badge/redux-0d0b14.svg?style=for-the-badge&logo=redux&logoColor=39f3ff)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0d0b14.svg?style=for-the-badge&logo=tailwind-css&logoColor=39f3ff)
 
 
 #### Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-0d0b14.svg?style=for-the-badge&logo=postgresql&logoColor=ff3df2)
+![MySQL](https://img.shields.io/badge/mysql-0d0b14.svg?style=for-the-badge&logo=mysql&logoColor=ff3df2)
 
 
 #### Developer Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-0d0b14.svg?style=for-the-badge&logo=git&logoColor=39f3ff)
+![Postman](https://img.shields.io/badge/Postman-0d0b14?style=for-the-badge&logo=postman&logoColor=39f3ff)
 
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matt-osorio)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mattosoriox@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0b14.svg?logo=linkedin&logoColor=39f3ff)](https://linkedin.com/in/matt-osorio)
+[![Email](https://img.shields.io/badge/Email-0d0b14?logo=gmail&logoColor=39f3ff)](mailto:mattosoriox@gmail.com)
 
